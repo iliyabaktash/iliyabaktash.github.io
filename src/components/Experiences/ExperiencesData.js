@@ -12,28 +12,56 @@ export const ExperiencesData = [
     //     }]
     // },
     {
-        title: "Design Engineer",
+        title: "Piping Engineer and Design Engineer",
         employmentType: 'Part-time',
         companyName: "TTS Group",
         startAndEndPeriod: "May 2023 - Present",
         location: 'Tehran, Iran',
-        description: 'During my game development experience, I acquired a diverse skill set that shares common ' +
-            'ground with front-end development. Redesigning the user interface, cross-platform development, ' +
-            'API communication, code optimization, HLS integration, project planning, and resource optimization ' +
-            '(including assets) are all relevant to the front-end realm. While not exclusively focused on front-end ' +
-            'development, my skills are easily transferable, making me well-prepared to excel in React and web ' +
-            'development.',
+        description: '3D modelling of Sari Waste Recycling and Separation, Conveyor Designing for Waste Separation, Piping Engineering for Waste-to-energy power plant of Sari, GD&T, Research and Development at TTS Group',
         links: [{
             label: 'TTS\'s website', url: 'https://ttsgroup.ir'
         }]
     },
     {
         title: "Teaching Assistant",
-        employmentType: null,
-        companyName: "Iran University of Science and Technology · Seasonal",
+        employmentType: 'Part-time',
+        companyName: "Iran University of Science and Technology",
         startAndEndPeriod: "Oct 2022 - Jun 2023",
         location: 'Tehran, Iran',
-        description: "Fluid mechanics I",
+        description: "Fluid Mechanic I at Iran University of Science and Technology",
+        links: [/*{
+            label: 'Source Code on Github', url: 'https://github.com/MohammadAliSaeidi/react-foodshop-redux'
+        }*/]
+    },
+    {
+        title: "Research Assistant",
+        employmentType: 'Part-time',
+        companyName: "Iran University of Science and Technology",
+        startAndEndPeriod: "Oct 2022 - Jun 2023",
+        location: 'Tehran, Iran',
+        description: "Machine learning application for Hydrogen production with Solar energy at Iran University of Science and Technology (Under Submitted)",
+        links: [/*{
+            label: 'Source Code on Github', url: 'https://github.com/MohammadAliSaeidi/react-foodshop-redux'
+        }*/]
+    },
+    {
+        title: "Intern",
+        employmentType: 'Part-time',
+        companyName: "Moshnir Power Engineering Services Co",
+        startAndEndPeriod: "2021",
+        location: 'Tehran, Iran',
+        description: "Wind Power generation and Wind turbine",
+        links: [/*{
+            label: 'Source Code on Github', url: 'https://github.com/MohammadAliSaeidi/react-foodshop-redux'
+        }*/]
+    },
+    {
+        title: "Intern",
+        employmentType: 'Part-time',
+        companyName: "Manjil Green Power generation Co",
+        startAndEndPeriod: "2020",
+        location: 'Manjil, Iran',
+        description: "Wind Power generation and Wind turbine",
         links: [/*{
             label: 'Source Code on Github', url: 'https://github.com/MohammadAliSaeidi/react-foodshop-redux'
         }*/]
