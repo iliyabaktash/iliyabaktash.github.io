@@ -5,14 +5,14 @@ import {ReactComponent as EmailIcon} from "../../assets/pictures/Icons/email.svg
 import ContactLink from "./ContactLink";
 
 export default function Footer() {
-    const myEmail = '1saeidima@gmail.com';
+    const myEmail = 'Baktashiliya@gmail.com';
 
     return (
         <footer className={'footer'}>
             <div className={'contact'}>
-                <ContactLink link={"https://github.com/MohammadAliSaeidi"} icon={<GithubIcon />} label={'Github'} />
-                <ContactLink link={"https://www.linkedin.com/in/mohammadali-saeidi-986bb91a8/"} icon={<LinkedInIcon /> } label={'LinkedIn'} />
-                <ContactLink link={'mailto: ' + myEmail } icon={<EmailIcon /> } label={'1saeidima@gmail.com'} />
+                {/* <ContactLink link={"https://github.com/MohammadAliSaeidi"} icon={<GithubIcon />} label={'Github'} /> */}
+                <ContactLink link={"https://www.linkedin.com/in/iliya-baktash-626066248"} icon={<LinkedInIcon /> } label={'LinkedIn'} />
+                <ContactLink link={'mailto: ' + myEmail } icon={<EmailIcon /> } label={'Baktashiliya@gmail.com'} />
             </div>
         </footer>
     )

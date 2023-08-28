@@ -1,5 +1,5 @@
 import './HeroImage.css'
-import myImage from "../../../assets/pictures/mohammadali.jpg";
+import myImage from "../../../assets/pictures/iliya.jpg";
 
 export default function HeroImage(){
     return (
