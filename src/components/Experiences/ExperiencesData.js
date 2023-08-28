@@ -13,7 +13,7 @@ export const ExperiencesData = [
     // },
     {
         title: "Piping Engineer and Design Engineer",
-        employmentType: 'Part-time',
+        employmentType: 'Full-time',
         companyName: "TTS Group",
         startAndEndPeriod: "May 2023 - Present",
         location: 'Tehran, Iran',
