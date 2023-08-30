@@ -34,12 +34,12 @@ export const SkillsData = [
     },
     {
         name: 'PVsyst',
-        description: 'PV Power Planet Simulation',
+        description: 'PV Power Plant Simulation',
         id: 0,
     },
     {
         name: 'PVSOL',
-        description: 'PV Power Planet Simulation',
+        description: 'PV Power Plant Simulation',
         id: 0,
     },
     {
